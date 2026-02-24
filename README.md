@@ -5,12 +5,12 @@
 To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
-```
+
 In practical scenarios, images often contain noise that degrades the performance of computer vision models. A convolutional autoencoder learns compressed representations of images and reconstructs them, which can be used to remove noise.
 
 Dataset: MNIST (28×28 grayscale images of handwritten digits)
 Noise: Gaussian noise will be added to simulate real-world scenarios
-```
+
 ## DESIGN STEPS
 
 ### Step 1: Setup Environment
